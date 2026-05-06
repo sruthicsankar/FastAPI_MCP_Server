@@ -216,6 +216,10 @@ Use get_ip_info for 192.168.1.1
 
 ---
 
+<img width="1422" height="492" alt="Screenshot 2026-05-06 at 12 21 39" src="https://github.com/user-attachments/assets/c98839f0-61be-4ca8-bf46-98182645a90a" />
+
+---
+
 # Workflow
 
 ```text
